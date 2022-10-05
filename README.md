@@ -12,7 +12,7 @@
 
 *usermod -aG <groupname> <username>*
 
-**Edit sudoers file to add normal user to root group**
+**Edit *sudoers* file to add normal user to root group**
 
 *visudo -f /etc/sudoers*
 
